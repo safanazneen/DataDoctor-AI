@@ -1,0 +1,10 @@
+customer_id,name,age,income,city,signup_date
+1,Alice,29,52000,New York,2024-01-15
+2,Bob,35,61000,Los Angeles,2024-02-10
+3,Charlie,,58000,Chicago,2024-03-05
+4,alice,29,52000,new york,2024-01-15
+5,David,42,999999,San Francisco,2024-02-22
+6,Eva,31,,Seattle,2024-04-11
+2,Bob,35,61000,Los Angeles,2024-02-10
+7,Frank,31,60000,Seattle,
+8,Grace,31,60000,  Seattle ,2024-04-11
